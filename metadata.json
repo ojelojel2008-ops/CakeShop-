@@ -1,0 +1,6 @@
+{
+  "name": "CakeShop – Every Cake Tells a Sweet Story",
+  "description": "Aplikasi pemesanan kue online modern & kreatif dengan fitur Custom Cake interaktif, pilihan rasa, ukuran, desain unik, serta kemudahan checkout dan pengiriman.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
